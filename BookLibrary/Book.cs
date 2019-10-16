@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ItemLibrary.Model
+namespace BookLibrary.Model
 {
     public class Book
     {
